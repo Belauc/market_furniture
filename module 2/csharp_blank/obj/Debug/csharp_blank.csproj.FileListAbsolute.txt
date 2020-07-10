@@ -1,0 +1,27 @@
+c:\users\михаил\documents\visual studio 2013\Projects\csharp_blank\csharp_blank\bin\Debug\csharp_blank.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\bin\Debug\csharp_blank.exe
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\bin\Debug\csharp_blank.pdb
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.Form1.resources
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.Properties.Resources.resources
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.exe
+C:\Users\Михаил\Documents\Visual Studio 2013\Projects\csharp_blank\csharp_blank\obj\Debug\csharp_blank.pdb
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\bin\Debug\csharp_blank.exe.config
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.exe
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.pdb
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\bin\Debug\csharp_blank.exe
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\bin\Debug\csharp_blank.pdb
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.csprojResolveAssemblyReference.cache
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.Form1.resources
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.Properties.Resources.resources
+C:\Users\Univer\Desktop\csharp_blank\csharp_blank\obj\Debug\csharp_blank.csproj.GenerateResource.Cache
+C:\Users\Univer\Desktop\Модуль\csharp_blank\bin\Debug\csharp_blank.exe.config
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.exe
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.pdb
+C:\Users\Univer\Desktop\Модуль\csharp_blank\bin\Debug\csharp_blank.exe
+C:\Users\Univer\Desktop\Модуль\csharp_blank\bin\Debug\csharp_blank.pdb
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.csprojResolveAssemblyReference.cache
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.Form1.resources
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.Properties.Resources.resources
+C:\Users\Univer\Desktop\Модуль\csharp_blank\obj\Debug\csharp_blank.csproj.GenerateResource.Cache
